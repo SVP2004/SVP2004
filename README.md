@@ -1,13 +1,25 @@
 # Hi 👋, I'm Sahil Patel
 
-A passionate Software Engineer and AI enthusiast from New Jersey.
+A CS student from New Jersey.
 
 ## 🎓 Education
 **Rutgers University-New Brunswick**  
-B.S. Computer Science & Data Science (Expected May 2026)  
-Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Management  
+B.S. Computer Science & Minor in Business Administration  
+Relevant Coursework: Computer Security, Software Methodology, Data Structures, Algorithms
 
 ## 💼 Professional Experience
+
+**IT/Software Associate @ Carefirst Specialty Pharmacy**
+- Transitioned the pharmacy’s training program from RxPestle to Tovuti LMS within two
+months.
+- Conducted data migration and ensured the security of sensitive training materials.
+- Assisted in monitoring system performance and resolving technical issues.
+
+**European Innovation Academy**
+- Developed a startup from concept to prototype, conducting market research and
+validation.
+- Built a secure website and landing page hosted on Google, ensuring data protection and
+privacy.
 **AI Trainer @ Outlier AI**
 - Evaluated and ranked AI-generated code in Python, Java, and C++
 - Partnered with Outlier to enhance generative AI models
@@ -16,7 +28,8 @@ Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Man
 **Undergraduate Research Assistant @ Rutgers University**
 - Analyzed complex datasets for behavioral experiments  
 - Improved data collection efficiency by 20%  
-- Implemented statistical models for research validation  
+- Implemented statistical models for research validation
+  
 
 ## 🚀 Personal Projects
 **Algorithm Visualizer**
